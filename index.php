@@ -25,36 +25,30 @@
 
         <section class="kc--form--section--1">
           <div class="kc--form--section--1--fname">
-            <label for="fname"><span>First</span><span>Name</span></label>
             <input type="text" name="fname" placeholder="Enter Your First Name" required>
           </div>
 
           <div class="kc--form--section--1--lname">
-            <label for="lname"><span>Last</span><span>Name</span></label>
             <input type="text" name="lname" placeholder="Enter Your Last Name" required>
           </div>
         </section>
 
         <section class="kc--form--section--2">
           <div class="kc--form--section--2--email">
-            <label for="emailFrom"><span>Your</span><span>Email</span></label>
             <input type="text" name="mailFrom" placeholder="Enter Your Email">
           </div>
 
           <div class="kc--form--section--2--confirm">
-            <label for="emailConfirmFrom"><span>Confirm</span><span>Email</span></label>
             <input type="text" name="mailConfirmFrom" placeholder="Confirm Your Email" required>
           </div>
         </section>
 
         <section class="kc--form--section--3">
           <div class="kc--form--section--3--subject">
-            <label for="emailSubject"><span>Email</span><span>Subject</span></label>
             <input type="text" name="mailSubject" placeholder="Enter Email Subject" required>
           </div>
 
           <div class="kc--form--section--3--message">
-            <label for="emailMessage"><span>Email</span><span>Message</span></label>
             <textarea name="emailMessage" placeholder="Enter Email Message"></textarea>
           </div>
         </section>
